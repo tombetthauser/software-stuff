@@ -40,3 +40,7 @@ tomblr_reactapp
 A blogging React app made with Ruby on Rails, PostgreSQL and BCrypt for custom user auth pattern. Also employs OOP design principles and minified JavaScript using Webpack. A tumblr clone by Tom!
 
 JavaScript 
+
+***
+
+Note, when complete this repo should contain a script that converts this markdown file to a index.html file that can act as a stand-alone GitHub page link.
